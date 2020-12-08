@@ -1,6 +1,8 @@
 Tools for analyzing calcium imaging with L0 Optimization
 -----
 
+Code from Fleming & Jewell et al. (2020). https://www.biorxiv.org/content/10.1101/2020.12.05.412965v1
+
 ### Data preprocessing 
 
 Inspired and built off of the preprocessing toolkits of Theis et al (2016). 
