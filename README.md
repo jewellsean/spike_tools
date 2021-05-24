@@ -2,6 +2,7 @@ Tools for analyzing calcium imaging with L0 Optimization
 -----
 
 Code from Fleming & Jewell et al. (2020). https://www.biorxiv.org/content/10.1101/2020.12.05.412965v1
+
 Full paper dataset is available at figshare: https://doi.org/10.6084/m9.figshare.14627238.v1
 
 ### Data preprocessing 
