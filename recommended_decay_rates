@@ -1,8 +1,8 @@
 Median decay rate, GCaMP6f:
-decay_rate = 0.9704588
+decay_rate = 0.9722923
 
 Median decay rate, GCaMP6m:
-decay_rate = 0.9843887
+decay_rate = 0.9842655
 
 Note that these median decay rates are used for spike estimates on in vivo data of VTA DA neurons at 60 Hz.
 It is recommended that the sampling rate is adjusted to 60 Hz in the data preprocessing step prior to spike estimation.
